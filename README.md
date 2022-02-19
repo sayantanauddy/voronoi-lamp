@@ -12,7 +12,7 @@ Here is a breakdown of the 4 main components of the 3D printed design. All the S
 - base_top.stl: Top part of the base with 2 circular grooves. The outer groove is for the voronoi shell, and the inner groove is for the LED ring (see electronic parts below).
 - base_bottom.stl: Bottom part of the base with cutouts for the USB connector and snap fit thingies. I am a beginner in Fusion 360 and my snap fit contacts are a bit loose (again a dab of hot glue made this nice and tight).
 
-The design file for the base is included in this repository for anyone who wants to improve it.
+The design file (voronoi-lamp-base.f3d) for the base is included in this repository for anyone who wants to improve it.
 
 ![parts](voronoi-lamp-render.png)
 ![parts](voronoi-lamp-assembly.gif)
